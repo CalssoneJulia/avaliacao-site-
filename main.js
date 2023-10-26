@@ -1,0 +1,1 @@
+alert("esse site rouba seus dados")
